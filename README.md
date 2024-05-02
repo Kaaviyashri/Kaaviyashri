@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on start up companies.
 - 📫 Drop an email to kaaviyashri@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I am happy to learn new things but it takes lots of time sometimes a day or a week to learn it fully.
+- ⚡ Fun fact: I am happy to learn new things but it takes lots of time sometimes a day or a week time to apply and understand clearly.
 
 <!---
 Kaaviyashri/Kaaviyashri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
