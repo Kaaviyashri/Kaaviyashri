@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate with Tech companies.
 - 📫 How to reach me s.kaaviyashri@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I am a designer, "web designer".
+- ⚡ Fun fact: love to work hard.
 
 <!---
 Kaaviyashri/Kaaviyashri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
