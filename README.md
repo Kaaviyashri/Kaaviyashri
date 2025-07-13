@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Kaaviyashri Saraboji
 
-**Software Engineer | AI Explorer | Builder of Real-World Intelligent Systems**
+**Software Engineer | AI Explorer | Building Real-World Intelligent Systems**
 
 ---
 
