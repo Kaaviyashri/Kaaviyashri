@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Kaaviyashri Saraboji
+# Hi, I'm Kaaviyashri Saraboji
 
 **Software Engineer | AI Explorer | Building Real-World Intelligent Systems**
 
@@ -10,7 +10,7 @@ Currently, I'm exploring the intersections of computer vision, NLP, and generati
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - **Languages:** Python, JavaScript, Java, C++, C  
 - **Web Development:** React.js, Node.js, MongoDB, Express.js, HTML, CSS  
@@ -20,23 +20,23 @@ Currently, I'm exploring the intersections of computer vision, NLP, and generati
 
 ---
 
-## 🚀 Projects
+## Projects
 
-- 🔍 **AI-Wildlife-Detection**  
+-  **AI-Wildlife-Detection**  
   A real-time object detection system designed to prevent animal-vehicle collisions using YOLO and OpenCV. *(currently working)*
 
-- 🍔 **FrontDash – Food Delivery Platform**  
+-  **FrontDash – Food Delivery Platform**  
   Full-stack MERN application with user, admin, and restaurant interfaces. Features order tracking, billing, and secure authentication.
 
-- 🧠 **Secure Coding Practice**  
+-  **Secure Coding Practice**  
   C-based system with common vulnerabilities (SQLi, XSS) identified and patched using secure coding practices and memory safety tools.
 
-- 🛡️ **Cryptography Protocols in Java & C**  
+-  **Cryptography Protocols in Java & C**  
   Implementation of RSA, Diffie-Hellman, and OpenID Connect login flows. Tested with TLS and SSH sessions for secure communications.
 
 ---
 
-## 📚 Interests
+## Interests
 
 - Applied AI · Computer Vision · Natural Language Processing  
 - Large Language Models (LLMs) · GenAI · Ethical & Explainable AI  
@@ -44,10 +44,10 @@ Currently, I'm exploring the intersections of computer vision, NLP, and generati
 
 ---
 
-## 📫 Let's Connect
+## Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/kaaviyashri-saraboji-6ba1871ba)  
-- ✉️ s.kaaviyashri@gmail.com  
+- s.kaaviyashri@gmail.com  
 
 ---
 
