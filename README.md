@@ -67,7 +67,7 @@ Built a **computer vision pipeline** using Python, OpenCV, YOLO, and TensorFlow 
 - **Software Engineer Intern – Analytics & Data Systems**  
   Developed **analytics dashboards and ML-driven decision-support systems**, collaborating closely with backend and data engineering teams.
 
-- **Graduate AI/ML Lab Assistant**  
+- **Graduate AI/ML Lab Assistant - University of Wisconsin - La Crosse**  
   Supported applied ML education through **reproducible workflows, debugging support, and system validation**, reinforcing software engineering fundamentals in ML experimentation.
 
 ---
