@@ -12,7 +12,7 @@ My work spans the **entire machine learning lifecycle**, including **data ingest
 
 Alongside applied ML, I have deep experience in **core software engineering**, including **algorithms and data structures, concurrency, performance optimization, API design, automated testing, and system reliability**. I regularly work with **validation-heavy workflows, secure authentication, logging, and CI/CD-aligned development practices** to ensure correctness and robustness in production environments.
 
-I am also actively engaged in **responsible and governance-aligned AI**. I am the designer of **ARISTOTLE**, a **WHO-aligned ethical readiness assessment tool for healthcare AI systems**, recognized by **WiSys and IEEE**. This work shapes how I approach ML system design with an emphasis on **auditability, accountability, and real-world deployment constraints**.
+I am also actively engaged in **responsible and governance-aligned AI**. I am the developer of **ARISTOTLE**, a **WHO-aligned ethical readiness assessment tool for healthcare AI systems**, recognized by **WiSys and IEEE**. This work shapes how I approach ML system design with an emphasis on **auditability, accountability, and real-world deployment constraints**.
 
 I am interested in roles where I can **own systems in production**, collaborate across **software, data, and product teams**, and contribute to building **scalable, trustworthy, and impactful AI-powered software**.
 
