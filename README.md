@@ -1,38 +1,65 @@
-# Kaaviya Saraboji
+<h2 align="left">Hi 👋! I'm Kaaviyashri Saraboji, an AI / ML Engineer</h2>
 
-## About Me
-I am an AI and Machine Learning Engineer with a strong software engineering foundation, focused on building production-oriented ML systems and reliable backend applications. My experience spans applied machine learning, computer vision, natural language processing, and core software engineering practices that emphasize correctness, performance, and maintainability.
+###
 
-I have worked on large-scale anomaly detection pipelines processing high-volume transactional data, low-latency computer vision systems, and NLP services integrated into real applications to automate decision and support workflows. Alongside ML development, I design and maintain API-driven systems with secure authentication, validation-intensive workflows, and automated testing to ensure system reliability.
-
-I also work on governance-aligned and responsible AI systems, including ARISTOTLE, a WHO-aligned ethical readiness assessment tool for healthcare AI recognized by WiSys and IEEE.
-
----
-
-## Tech Stack
-**Machine Learning & AI:** Python, PyTorch, TensorFlow, Scikit-learn, OpenCV, YOLO  
-**Backend & APIs:** FastAPI, Flask, Node.js, Express.js  
-**Data & Storage:** Pandas, NumPy, PostgreSQL, MongoDB  
-**Cloud & DevOps:** AWS (EC2, S3, SageMaker), Docker  
-**Software Engineering:** Git, GitHub, CI/CD, Postman
-
----
-
-## Selected Projects
-- **ARISTOTLE** – Ethical Readiness Assessment Tool for Healthcare AI  
-- **Habitat for Humanity Application & Volunteer Portal** – Secure MERN platform with NLP support  
-- **AI-Driven Wildlife Detection System** – Low-latency computer vision pipeline  
-
----
-
-## GitHub Activity
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kaaviyashri&show_icons=true&theme=default&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaaviyashri&layout=compact&theme=default&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Kaaviyashri&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kaaviyashri&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="150" alt="languages graph" />
 </div>
 
----
+###
 
-## Links
-- LinkedIn: https://linkedin.com/in/kaaviyashri
-- Portfolio: https://kaaviyashri-portfolio.vercel.app
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />
+
+###
+
+### 💫 About Me
+I am an **AI and Machine Learning Engineer** with a strong **software engineering foundation**, focused on building **production-ready ML systems** and **reliable backend applications**.
+
+My experience spans **end-to-end ML pipelines**, **transaction anomaly detection systems processing high-volume financial data**, **low-latency computer vision pipelines**, and **NLP services integrated into real-world applications**. I emphasize **correctness, performance, testing, and maintainability** when translating models into deployable systems.
+
+I also work on **responsible and governance-aligned AI**, including **ARISTOTLE**, a WHO-aligned ethical readiness assessment tool for healthcare AI recognized by **WiSys and IEEE**. This work shapes how I design ML systems with **auditability, accountability, and real-world constraints** in mind.
+
+###
+
+### 💻 Tech Stack
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="30"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="30"/>
+</div>
+
+###
+
+### 🌐 Connect with Me
+<div align="left">
+  <a href="mailto:s.kaaviyashri@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="35"/>
+  </a>
+  <a href="https://linkedin.com/in/kaaviyashri">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="35"/>
+  </a>
+  <a href="https://kaaviyashri-portfolio.vercel.app">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=vercel&color=000000&logoColor=white&style=for-the-badge" height="35"/>
+  </a>
+</div>
+
+###
+
+<br clear="both"/>
+
+<img src="https://raw.githubusercontent.com/Kaaviyashri/Kaaviyashri/output/snake.svg" alt="Snake animation" />
